@@ -19,10 +19,8 @@ dependencies:
   - jupyterlab-language-pack-es-ES
   - jupyterlab-language-pack-pt-BR
   # Python packages
-  - argopy>=0.1.7
   - bokeh
   - bottleneck
-  - cartopy
   - cdsapi
   - cf-units
   - cf_xarray
